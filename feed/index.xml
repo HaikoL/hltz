@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Haiko</title>
+	<atom:link href="https://hltz.de/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hltz.de/</link>
+	<description>minimal live log</description>
+	<lastBuildDate>Sun, 09 Jun 2024 12:26:34 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<item>
+		<title>Hallo Welt!</title>
+		<link>https://hltz.de/2024/06/hallo-welt/</link>
+					<comments>https://hltz.de/2024/06/hallo-welt/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 09 Jun 2024 12:26:34 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<guid isPermaLink="false">https://hltz.de/?p=1</guid>
+
+					<description><![CDATA[Willkommen bei WordPress. Dies ist dein erster Beitrag. Bearbeite oder lösche ihn und beginne mit dem Schreiben!]]></description>
+										<content:encoded><![CDATA[
+<p>Willkommen bei WordPress. Dies ist dein erster Beitrag. Bearbeite oder lösche ihn und beginne mit dem Schreiben!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hltz.de/2024/06/hallo-welt/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
