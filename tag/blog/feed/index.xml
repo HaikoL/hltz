@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>haiko</title>
-	<atom:link href="https://hltz.de/feed/" rel="self" type="application/rss+xml" />
+	<title>blog &#8211; haiko</title>
+	<atom:link href="https://hltz.de/tag/blog/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hltz.de/</link>
 	<description>minimal live log</description>
 	<lastBuildDate>Mon, 10 Jun 2024 15:03:27 +0000</lastBuildDate>

@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>admin &#8211; Haiko</title>
+	<title>admin &#8211; haiko</title>
 	<atom:link href="https://hltz.de/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hltz.de/</link>
 	<description>minimal live log</description>
-	<lastBuildDate>Sun, 09 Jun 2024 12:26:34 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 Jun 2024 15:03:27 +0000</lastBuildDate>
 	<language>de-DE</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,22 +20,69 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 	<item>
-		<title>Hallo Welt!</title>
-		<link>https://hltz.de/2024/06/hallo-welt/</link>
-					<comments>https://hltz.de/2024/06/hallo-welt/#comments</comments>
+		<title>Static blogging with github and wordpress</title>
+		<link>https://hltz.de/2024/06/static-blogging-with-github-and-wordpress/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 09 Jun 2024 12:26:34 +0000</pubDate>
-				<category><![CDATA[Allgemein]]></category>
-		<guid isPermaLink="false">https://hltz.de/?p=1</guid>
+		<pubDate>Mon, 10 Jun 2024 14:59:23 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<category><![CDATA[website]]></category>
+		<category><![CDATA[github]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<category><![CDATA[xampp]]></category>
+		<guid isPermaLink="false">https://hltz.de/?p=24</guid>
 
-					<description><![CDATA[Willkommen bei WordPress. Dies ist dein erster Beitrag. Bearbeite oder lösche ihn und beginne mit dem Schreiben!]]></description>
+					<description><![CDATA[Hosting a wordpress blog website with github pages.]]></description>
 										<content:encoded><![CDATA[
-<p>Willkommen bei WordPress. Dies ist dein erster Beitrag. Bearbeite oder lösche ihn und beginne mit dem Schreiben!</p>
+<p>Hosting a wordpress blog website with github pages.</p>
+
+
+
+<ol></ol>
+
+
+
+<ol>
+<li>github pages hltz.de</li>
+
+
+
+<li>doamin ionos auf github zeigen</li>
+
+
+
+<li>local xammp aufsetzen</li>
+
+
+
+<li>local vhost auf website zeigen lassen</li>
+
+
+
+<li>db anlegen</li>
+
+
+
+<li>wordpress aufsetzen</li>
+
+
+
+<li>konfiguration wordpress</li>
+
+
+
+<li>blog theme auswählen (3 die mich ansprachen)</li>
+
+
+
+<li>Themes einspielen (nuclear als minimal blog)</li>
+
+
+
+<li>simply static als plugin installieren</li>
+</ol>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://hltz.de/2024/06/hallo-welt/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
 		
 		
 			</item>
