@@ -12,7 +12,7 @@
 	<atom:link href="https://hltz.de/category/blog/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hltz.de/</link>
 	<description>minimal live log</description>
-	<lastBuildDate>Mon, 10 Jun 2024 15:03:27 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Jun 2024 19:24:08 +0000</lastBuildDate>
 	<language>de-DE</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -24,7 +24,7 @@
 		<link>https://hltz.de/2024/06/static-blogging-with-github-and-wordpress/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 10 Jun 2024 14:59:23 +0000</pubDate>
+		<pubDate>Tue, 11 Jun 2024 19:24:08 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
 		<category><![CDATA[website]]></category>
 		<category><![CDATA[github]]></category>
@@ -35,10 +35,6 @@
 					<description><![CDATA[Hosting a wordpress blog website with github pages.]]></description>
 										<content:encoded><![CDATA[
 <p>Hosting a wordpress blog website with github pages.</p>
-
-
-
-<ol></ol>
 
 
 
@@ -80,6 +76,26 @@
 
 
 <li>simply static als plugin installieren</li>
+
+
+
+<li>plugin settings static external domain konfig</li>
+
+
+
+<li>simply static generate blog snapshot</li>
+
+
+
+<li>add all to git &#8222;git add -A&#8220; / &#8222;git add .&#8220;</li>
+
+
+
+<li>commit all doc local &#8222;git commit -m &#8222;&#8220;&#8220;</li>
+
+
+
+<li>push local to origin &#8222;git push url&#8220;</li>
 </ol>
 ]]></content:encoded>
 					
